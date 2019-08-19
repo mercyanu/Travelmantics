@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_hint">" Entrer le titre..."</string>
+    <string name="price_hint">" Entrez le prix (chiffres seulement)..."</string>
+    <string name="description_hint">" Entrez la description..."</string>
+    <string name="text_select">" Sélectionner une image"</string>
+    <string name="save_menu">Sauvegarder</string>
+</resources>

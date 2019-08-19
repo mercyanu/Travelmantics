@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="save_menu">保存</string>
+    <string name="description_hint">输入说明...</string>
+    <string name="price_hint">" 输入价格（仅限数字）..."</string>
+    <string name="title_hint">输入标题...</string>
+    <string name="text_select">" 选择图像"</string>
+</resources>
