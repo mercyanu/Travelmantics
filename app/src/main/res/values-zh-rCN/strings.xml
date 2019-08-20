@@ -6,4 +6,5 @@
     <string name="price_hint">" 输入价格（仅限数字）..."</string>
     <string name="title_hint">输入标题...</string>
     <string name="text_select">" 选择图像"</string>
+    <string name="tool_title">" 刷过这个"</string>
 </resources>

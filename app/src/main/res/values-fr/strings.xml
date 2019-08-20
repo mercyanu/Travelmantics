@@ -6,4 +6,6 @@
     <string name="description_hint">" Entrez la description..."</string>
     <string name="text_select">" Sélectionner une image"</string>
     <string name="save_menu">Sauvegarder</string>
+    <string name="tool_title">Glisser a travers cette</string>
+
 </resources>

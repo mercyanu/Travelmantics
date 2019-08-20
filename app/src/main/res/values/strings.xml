@@ -5,4 +5,5 @@
     <string name="description_hint">Enter Description...</string>
     <string name="save_menu">Save</string>
     <string name="text_select">Select image</string>
+    <string name="tool_title">Swipe through this</string>
 </resources>
